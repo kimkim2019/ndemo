@@ -89,15 +89,15 @@ h1 {
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 27px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 26px;
 }
 
 h5 {
@@ -196,7 +196,7 @@ a {
 }
 
 b, strong {
-  font-weight: 900;
+  font-weight: 600;
 }
 
 .btn.active, .btn:active {
